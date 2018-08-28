@@ -7,10 +7,10 @@ Pod::Spec.new do |s|
                        AppsFlyer is the market leader in mobile advertising attribution & analytics, helping marketers to pinpoint their targeting, optimize their ad spend and boost their ROI.
                        DESC
 
-  s.homepage         = "https://github.com/AppsFlyerSDK/segment-appsflyer-ios"
+  s.homepage         = "https://github.com/overhq/segment-appsflyer-ios"
   s.license          =  { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { "Appsflyer" => "maxim@appsflyer.com" }
-  s.source           = { :git => "https://github.com/AppsFlyerSDK/segment-appsflyer-ios.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/overhq/segment-appsflyer-ios.git", :tag => s.version.to_s }
   
 
   s.ios.deployment_target = '7.0'
